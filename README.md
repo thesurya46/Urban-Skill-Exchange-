@@ -1,4 +1,4 @@
-# SkillHub - Skill Exchange Platform
+# SkillHub - Skill Exchange Platform :
 
 A modern, minimalistic skill-sharing platform where users can exchange skills, learn new technologies, and collaborate on projects. Built with React, TypeScript, Tailwind CSS, and Supabase.
 
