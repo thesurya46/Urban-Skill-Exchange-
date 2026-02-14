@@ -248,4 +248,4 @@ Uses Supabase Auth with email/password:
 
 ---
 
-**Made with ❤️ for the learning community**
+**Made with Team Bit Busters**
